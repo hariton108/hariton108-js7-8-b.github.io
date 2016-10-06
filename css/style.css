@@ -1,0 +1,33 @@
+form {
+	width: 600px;
+    margin: 20px auto;
+}
+
+label {
+    display: inline-block;
+    width: 5em;
+}
+
+fieldset div {
+	position: relative;
+    margin-bottom: 2em;
+}
+
+button {
+    display: block;
+    width: 80px;
+    margin: 0 auto;
+}
+
+.tooltip {
+	position: absolute;
+	top: -3px;
+	left: 240px;
+    min-width: 100px;
+    min-height: 30px;
+    padding: 0 5px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 30px; 
+}
